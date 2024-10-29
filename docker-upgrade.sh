@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 定义一些变量
-IMAGE_NAME="ghcr.io/trueai-org/midjourney-prox"
+IMAGE_NAME="ghcr.io/trueai-org/midjourney-proxy"
 CONTAINER_NAME="mjopen"
 
 # 打印信息
