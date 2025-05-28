@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,mirror2.openwrt.org # openwrt源码库
 
   #################### 我的
-  - DOMAIN-SUFFIX,hongxingyunmovie.vip,🎞️EMBY # EMBY
+  - DOMAIN-SUFFIX,hongxingyunmovie.vip,🖐️手动切换 # Emby
   - DOMAIN-SUFFIX,pinterest.com
 
   #################### 论坛
