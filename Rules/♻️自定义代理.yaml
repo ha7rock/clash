@@ -12,6 +12,7 @@ payload:
   #################### 我的
   - DOMAIN-SUFFIX,hongxingyunmovie.vip,🖐️手动切换 # Emby
   - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,labs.google
 
   #################### 论坛
   - DOMAIN-SUFFIX,v2rayssr.com # V2RaySSR综合网，禁止大陆IP访问，内有一些教程交流贴
