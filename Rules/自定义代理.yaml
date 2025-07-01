@@ -11,6 +11,7 @@ payload:
 
   #################### 我的
   - DOMAIN-SUFFIX,hongxingyunmovie.vip,🍑红杏节点 # Emby
+  - DOMAIN-SUFFIX,candytallymovie.vip,🍬糖果节点 # Emby
   - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,labs.google
