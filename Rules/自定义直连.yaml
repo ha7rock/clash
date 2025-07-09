@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,api.onedrive.com # 微软OneDrive个人版，现已被划分到GFW
 
   #################### Stun
+  - DOMAIN-SUFFIX,stun.playstation.net
   - DOMAIN-SUFFIX,stun.isp.net.au
   - DOMAIN-SUFFIX,fwa.lifesizecloud.com
   - DOMAIN-SUFFIX,stun.freeswitch.org
