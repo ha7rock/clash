@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,elevenlabs.io #ElevenLabs
 
   #################### DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,openai
