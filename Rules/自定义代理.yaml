@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,mirror2.openwrt.org # openwrt源码库
 
   #################### 我的
+  - DOMAIN-SUFFIX,wttr.in
   - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,labs.google
