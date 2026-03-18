@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,elevenlabs.io #ElevenLabs
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,kiro.dev
+  - DOMAIN-SUFFIX,manus.im
 
   #################### DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,openai
