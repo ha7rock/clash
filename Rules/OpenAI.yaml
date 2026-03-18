@@ -36,6 +36,10 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-SUFFIX,elevenlabs.io #ElevenLabs
+  - DOMAIN-SUFFIX,labs.google
+  - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,kiro.dev
+  - DOMAIN-SUFFIX,manus.im
 
   #################### DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,openai
