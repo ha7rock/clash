@@ -1,7 +1,13 @@
 payload:
-  ### OpenAI 相关服务域名/IP，用于代理或特殊规则匹配
+### OpenAI 相关服务域名/IP，用于代理或特殊规则匹配
 
-  #################### DOMAIN
+#################### DOMAIN
 
-  #################### DOMAIN-SUFFIX
-  - DOMAIN-SUFFIX,
+#################### DOMAIN-SUFFIX
+- DOMAIN-SUFFIX,google.dev
+- DOMAIN-SUFFIX,labs.google
+- DOMAIN-SUFFIX,googleapis.com
+- DOMAIN-SUFFIX,gstatic.com
+- DOMAIN-SUFFIX,google-analytics.com
+- DOMAIN-SUFFIX,googletagmanager.com
+- DOMAIN-SUFFIX,withgoogle.com
