@@ -1,1 +1,7 @@
+payload:
+  ### OpenAI 相关服务域名/IP，用于代理或特殊规则匹配
 
+  #################### DOMAIN
+
+  #################### DOMAIN-SUFFIX
+  - DOMAIN-SUFFIX,
