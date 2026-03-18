@@ -11,3 +11,4 @@ payload:
 - DOMAIN-SUFFIX,google-analytics.com
 - DOMAIN-SUFFIX,googletagmanager.com
 - DOMAIN-SUFFIX,withgoogle.com
+- DOMAIN-SUFFIX,opal.google
