@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-SUFFIX,elevenlabs.io #ElevenLabs
   - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,lumalabs.ai
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,manus.im
 
