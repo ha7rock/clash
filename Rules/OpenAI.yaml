@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,lumalabs.ai
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,midjourney.com
 
   #################### DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,openai
