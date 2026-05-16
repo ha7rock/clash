@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,note.com
+  - DOMAIN-SUFFIX,byteplus.com
 
   #################### 论坛
   - DOMAIN-SUFFIX,v2rayssr.com # V2RaySSR综合网，禁止大陆IP访问，内有一些教程交流贴
