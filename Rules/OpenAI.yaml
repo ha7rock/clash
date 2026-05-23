@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,manus.im
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,higgsfield.ai
+  - DOMAIN-SUFFIX,mureka.ai
 
   #################### DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,openai
