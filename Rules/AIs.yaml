@@ -1,4 +1,5 @@
-
+payload:
+  #其他大陆地区无法顺利访问的AI服务
   - DOMAIN-SUFFIX,elevenlabs.io #ElevenLabs
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,lumalabs.ai
