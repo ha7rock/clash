@@ -35,14 +35,6 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
-  - DOMAIN-SUFFIX,elevenlabs.io #ElevenLabs
-  - DOMAIN-SUFFIX,trae.ai
-  - DOMAIN-SUFFIX,lumalabs.ai
-  - DOMAIN-SUFFIX,kiro.dev
-  - DOMAIN-SUFFIX,manus.im
-  - DOMAIN-SUFFIX,midjourney.com
-  - DOMAIN-SUFFIX,higgsfield.ai
-  - DOMAIN-SUFFIX,mureka.ai
 
   #################### DOMAIN-KEYWORD
   - DOMAIN-KEYWORD,openai
