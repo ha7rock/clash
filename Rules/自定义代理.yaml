@@ -16,6 +16,8 @@ payload:
   - DOMAIN-SUFFIX,note.com
   - DOMAIN-SUFFIX,byteplus.com
   - DOMAIN-SUFFIX,kzo.moe
+  # Grok Bot 云电脑出口（当前实测；重建后可能变，先用 /32，不要整段 C 段）
+  - IP-CIDR,104.30.180.111/32 # Grok Bot box egress 2026-09-08
 
   #################### 论坛
   - DOMAIN-SUFFIX,v2rayssr.com # V2RaySSR综合网，禁止大陆IP访问，内有一些教程交流贴
